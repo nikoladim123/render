@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node root/render.js",
+    "start": "node render.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
